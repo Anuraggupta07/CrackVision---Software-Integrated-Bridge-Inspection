@@ -28,4 +28,4 @@ CrackVision is a groundbreaking project developed by my team under Bhargava Info
 - Machine Learning
 
 ## License
-This project is licensed under the [insert license] License. See the LICENSE.md file for details.
+This project is licensed under the MIT License. See the LICENSE.md file for details.
